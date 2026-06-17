@@ -1,0 +1,5 @@
+pandas
+python-docx
+scikit-learn
+spacy
+numpy
