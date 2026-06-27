@@ -1,36 +1,5 @@
 from datetime import date, datetime
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Proficiency weights for skill scoring
 PROFICIENCY_WEIGHTS = {
     "beginner":     0.25,
